@@ -1,0 +1,15 @@
+.centerAlign{
+    text-align: center;
+}
+.static{
+    position: static;
+    top: 15px;
+}
+
+#mainAlign{
+    text-align: left;
+
+}
+span{
+    text-align: left;
+}
