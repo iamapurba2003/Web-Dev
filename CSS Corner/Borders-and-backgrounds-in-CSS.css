@@ -1,0 +1,28 @@
+.firstPara{
+    background-color: red;
+    height: 100px;
+    width: 455px;
+    /* border-color: yellowgreen;
+    border-style: dashed;
+    border-radius: 15px;
+     */
+    border: 4px dashed greenyellow;
+}   
+
+.secondpara{
+    border-top: 100px;
+    border-top-color: aqua;
+    border-bottom-color: greenyellow;
+}
+
+.thirdPara{
+    border: 12px dashed greenyellow;
+    height: 100px;
+    width: 300px;
+    background-image: url(https://wallpaperxyz.com/wp-content/uploads/Website-Background-Images-HD-Free-Download-Wallpaperxyz.com-36.jpg);
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-repeat: no-repeat;
+    background-position: center center; /*there are many combinations try out by yourself*/ 
+    
+}

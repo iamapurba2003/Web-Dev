@@ -1,0 +1,26 @@
+/* types of css selectors:
+css element selector
+css id selector
+css class selector
+css grouping selector */
+
+/* css element selector */
+p{
+    color: red;
+}
+
+/* css id selector */
+#redElement{
+    color: red;
+}
+
+/* css class selector */
+.redElement{
+    color: red;
+}
+
+/* css grouping selectors */
+footer, span{
+    color: red;
+    background-color: aquamarine;
+}
